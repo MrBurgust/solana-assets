@@ -3,8 +3,7 @@
   "symbol": "MANOLIA",
   "description": "Manolia is a community-driven meme token built on Solana.",
   "seller_fee_basis_points": 0,
-  "image": "https://TU-URL-DEL-LOGO.png",
-  "external_url": "https://TU-URL-DEL-PROYECTO.com",
+  "image": "https://mrburgust.github.io/solana-assets/manolia/logo.png",
   "attributes": [
     {
       "trait_type": "Token Type",
@@ -18,7 +17,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://TU-URL-DEL-LOGO.png",
+        "uri": "https://mrburgust.github.io/solana-assets/manolia/logo.png",
         "type": "image/png"
       }
     ],
