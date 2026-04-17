@@ -1,0 +1,26 @@
+{
+  "name": "Schizo Signal",
+  "symbol": "SCHZ",
+  "description": "Schizo Signal is the next viral meme taking over the timeline. Strong community, unstoppable momentum, and maximum degen energy. This is more than a token — it’s a cultural takeover. Fade Schizo Signal now, watch it dominate later.",
+  "seller_fee_basis_points": 0,
+  "image": "https://mrburgust.github.io/solana-assets/SCHZ/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://mrburgust.github.io/solana-assets/SCHZ/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
